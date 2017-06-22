@@ -2,6 +2,7 @@
   "name": "ng2-img-cropper",
   "version": "0.8.6",
   "description": "Angular2 Image Cropper Component",
+  "main":"dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cstefanache/angular2-img-cropper.git"
